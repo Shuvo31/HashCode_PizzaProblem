@@ -1,2 +1,2 @@
-# HashCode_PizzaProblem
-Here you can find the solution of Google hashcode pizza problem 2021
+# HashCode-Pizza-Problem
+Google HashCode 2021 Pizza Problem solution in python.<br/>
